@@ -1,13 +1,13 @@
 # Site settings
-title: Dominik Boller - Software Engineer with passion
+title: Dominik Boller - Software Engineer
 description: A blog about lorem ipsum dolor sit amet
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://boller.site" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+baseurl: ""
+url: "https://boller.site"
 
 # User settings
 username: Dominik Boller
-user_description: Test rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Engineer
+user_description: I love all things coding and I have a genuine passion for software engineering.
+user_title: Full Stack Software Engineer
 email: boller.dominik@gmail.com
 twitter_username: lorem_ipsum
 github_username:  bollerdominik
